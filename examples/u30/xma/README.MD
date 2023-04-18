@@ -1,0 +1,2 @@
+# U30 Introductory and Reference Apps
+This folder contains 2 sub-directories **introductory-apps** and **reference-apps**, which provide introductory and production level XMA-based C examples. In general, the introductory examples are focused on U30's API flow, without much in the way of error or exception handling, whereas, the reference folder examples also include performance measures and error handling.
